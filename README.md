@@ -1,6 +1,6 @@
 # Hi there, I'm Kevin Acevedo 👋
 
-## Desarrollador Frontend & Software Engineer
+## Software Engineer
 
 Soy un Ingeniero de Software especializado en crear experiencias digitales modernas, interfaces interactivas y aplicaciones web de alto rendimiento. Me apasiona transformar ideas en productos reales a través de código limpio y diseño centrado en el usuario.
 
